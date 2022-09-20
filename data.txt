@@ -1,0 +1,6 @@
+5
+pritupimai 10
+atsilenkimai 20
+pritupimai 15
+prisitraukimai 5
+atsilenkimai 20
